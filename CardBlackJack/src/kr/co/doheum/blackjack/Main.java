@@ -18,21 +18,7 @@ public class Main {
 			dealer.addCard(cd.getRandomCard());
 			gamer.addCard(cd.getRandomCard());
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		Scanner s = new Scanner(System.in);
 		String input = "n";
 		boolean gamerExit = false;
